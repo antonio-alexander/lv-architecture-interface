@@ -11,3 +11,9 @@ As a **disclaimer**, these support __basic__ functionality, although I do think 
 This is a simple template for a non re-entrant interface developed for high concurrency (i.e. a lot is happening simultaneously). It's also meant to be fairly scalable within its context.
 
 For more information, check out [README.md](./source/lv-interface-nre/README.md)
+
+## lv-interface-re
+
+This is another template for a re-entrant interface, it's identical to the non re-entrant example except that it's configured for re-entrancy. The launcher.vi can start mujltiple instances of the main.
+
+For more information, check out the [README.md](./source/lv-interface/re/README.md)

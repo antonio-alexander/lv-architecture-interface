@@ -27,6 +27,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="lv-interface-nre.lvlib" Type="Library" URL="../lv-interface-nre/lv-interface-nre.lvlib"/>
+		<Item Name="lv-interface-re.lvlib" Type="Library" URL="../lv-interface-re/lv-interface-re.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
